@@ -1,3 +1,8 @@
 .top-bar {
     background-color: #5cbce0;
 }
+
+#signup-form {
+    width: 100%;
+    height: 60vh
+}
